@@ -1,0 +1,13 @@
+numpy
+pandas
+torch
+transformers
+tokenizers
+huggingface_hub
+spacy
+scikit-learn
+scipy
+pyomo
+tqdm
+xlsxwriter
+cvxopt
